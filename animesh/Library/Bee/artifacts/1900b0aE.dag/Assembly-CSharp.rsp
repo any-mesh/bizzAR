@@ -351,7 +351,14 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VuforiaEditorScripts.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VuforiaScripts.ref.dll"
+"Assets/LevelManager.cs"
 "Assets/openURL.cs"
+"Assets/PageSlider/Scripts/PageContainer.cs"
+"Assets/PageSlider/Scripts/PageDot.cs"
+"Assets/PageSlider/Scripts/PageDotsIndicator.cs"
+"Assets/PageSlider/Scripts/PageScroller.cs"
+"Assets/PageSlider/Scripts/PageSlider.cs"
+"Assets/PageSlider/Scripts/PageView.cs"
 -langversion:9.0
 
 /deterministic
